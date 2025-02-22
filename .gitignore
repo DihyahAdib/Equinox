@@ -1,0 +1,86 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# VS/VSCode generated
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Plastic SCM
+.plastic/
+.plastic/*
+
+# Unity Settings and Config files
+.editorconfig
+*.asset
+*.meta
+*.unity
+*.scenetemplate
+*.inputactions
+
+# Assets Settings folders (but keep your scripts)
+[Aa]ssets/[Ss]ettings/
+[Aa]ssets/[Ss]cenes/
+!Assets/Scripts/
+!Assets/Scripts/*.cs
+!Assets/Scripts/*.cs.meta
+
+# Pipeline settings
+UniversalRenderPipelineGlobalSettings.*
+Renderer2D.*
+UniversalRP.*
+
+# Scene templates
+*SceneTemplate.*
+*Template.*
+
+# Default Volume Profile
+DefaultVolumeProfile.*
+
+# Input System
+InputSystem_*.*
+
+# Package files
+[Pp]ackages/
+manifest.json
+packages-lock.json
+
+# Editor config
+.editorconfig
+.config/
